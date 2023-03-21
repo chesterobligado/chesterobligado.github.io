@@ -1,5 +1,0 @@
-<html>
-<body>
-<h1>Website Coming Soon</h1>
-</body>
-</html>
